@@ -19,6 +19,7 @@ Step 5: Plot the magnitude spectrum with x-label and y-label with suitable title
 Step 6: Terminate the program.
 
 ## PROGRAM: 
+
 clc; % clear screen
 clear all; % clear screen
 close all; % close all figure windows
